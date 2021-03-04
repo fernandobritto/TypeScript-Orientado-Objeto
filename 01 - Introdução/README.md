@@ -1,6 +1,6 @@
 # TypeScript Orientado a Objetos
 
-> ### Aula 01 - Introdução
+> ### Video 01 - Introdução
 
 &nbsp;&nbsp;&nbsp;
 
